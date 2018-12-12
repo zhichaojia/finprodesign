@@ -36,7 +36,6 @@ public class PMview extends View {
      private String[] text ={"优","良","轻度污染","中度污染","重度污染","有毒"};
      private int[] indicatorColor = {0xffffffff,0x00ffffff,0x99ffffff,0xffffffff};
 
-
     public int getCurrentNum() {
         return currentNum;
     }
